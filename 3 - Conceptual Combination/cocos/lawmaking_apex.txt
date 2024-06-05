@@ -1,0 +1,30 @@
+Title: lawmaking-apex
+
+Head Concept Name: lawmaking
+Modifier Concept Name: apex
+
+
+
+
+
+T(modifier), celestial_point, 0.802
+T(modifier), celestial_sphere, 0.802
+T(modifier), -nadir, 0.799
+T(modifier), geometry, 0.778
+T(modifier), us, 0.764
+T(modifier), aviation, 0.76
+T(modifier), british, 0.759
+T(modifier), botany, 0.758
+
+T(head), law, 0.851
+T(head), legislation, 0.851
+T(head), statute_book, 0.799
+T(head), create_from_raw_material, 0.771
+T(head), perpetrate, 0.756
+T(head), government, 0.754
+T(head), legal, 0.751
+T(head), constitute, 0.751
+
+
+Result: {"celestial_point": 0.802, "celestial_sphere": 0.802, "-nadir": 0.799, "geometry": 0.778, "law": 0.851, "legislation": 0.851, "statute_book": 0.799, "create_from_raw_material": 0.771, "@scenario_probability": 0.0002192879013637784}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0002192879013637784]

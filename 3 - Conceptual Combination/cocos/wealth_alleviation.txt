@@ -1,0 +1,30 @@
+Title: wealth-alleviation
+
+Head Concept Name: wealth
+Modifier Concept Name: alleviation
+
+
+
+
+
+T(modifier), aid, 0.795
+T(modifier), comfort, 0.769
+T(modifier), social_welfare, 0.754
+T(modifier), decrease, 0.754
+T(modifier), liberation, 0.748
+T(modifier), damages, 0.747
+T(modifier), sculpture, 0.745
+T(modifier), moderation, 0.737
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"aid": 0.795, "comfort": 0.769, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.0003251107682745666}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003251107682745666]

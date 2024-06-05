@@ -1,0 +1,25 @@
+Title: power_station-monument
+
+Head Concept Name: power_station
+Modifier Concept Name: monument
+
+
+
+
+
+T(modifier), statue, 0.928
+T(modifier), memorial, 0.917
+T(modifier), remembering, 0.881
+T(modifier), commemorating, 0.875
+T(modifier), cemetary, 0.852
+T(modifier), honoring_person, 0.847
+T(modifier), honoring_event, 0.847
+T(modifier), honoring_important_person_or_event, 0.847
+
+T(head), turbogenerator, 0.813
+T(head), busbar, 0.769
+T(head), power_station, 0.747
+
+
+Result: {"statue": 0.928, "memorial": 0.917, "remembering": 0.881, "commemorating": 0.875, "cemetary": 0.852, "honoring_event": 0.847, "honoring_important_person_or_event": 0.847, "turbogenerator": 0.813, "@scenario_probability": 0.2914889972590384}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0.2914889972590384]
