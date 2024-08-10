@@ -51,4 +51,4 @@ if __name__ == '__main__':
     #rm_dup('all_nn.tsv') 
     #rm_dup('all_na.tsv') 
     #rm_dup('all_an.tsv') 
-    rm_dup('x-prototyped.tsv') 
+    rm_dup('prototyped.tsv') 
