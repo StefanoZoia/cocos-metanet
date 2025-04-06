@@ -37,12 +37,12 @@ def write_cocos_file(head, modifier):
     
         # rigid properties
         for p in getRigidProperties(f'{cfg.RIGID_PROP_DIR}/{head}.txt'):
-            f.write("head, " + p)
-        f.write("\n\n")
+            f.write(f"head, {p}\n")
+        f.write("\n")
         
         for p in getRigidProperties(f'{cfg.RIGID_PROP_DIR}/{modifier}.txt'):
-            f.write("modifier, " + p)
-        f.write("\n\n")
+            f.write(f"modifier, {p}\n")
+        f.write("\n")
         
         # typical properties
         modifier_typ = getTypicalProperties(f'{cfg.TYPICAL_PROP_DIR}/{modifier}.txt')
